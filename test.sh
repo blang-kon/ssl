@@ -20,7 +20,7 @@ if [[ $ether = "" ]]; then
         ether=eth0
 fi
 
-	source="https://raw.githubusercontent.com/cy-ber/crime"
+	source="https://raw.githubusercontent.com/blang-kon/ssl"
 
 
 # go to root
