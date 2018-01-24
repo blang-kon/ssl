@@ -60,7 +60,7 @@ if ! grep -w -q $MYIP IP; then
 	echo "        Hubungi: editor ( Yusuf Ardiansyah)"
 	
 	rm /root/IP
-	rm it.sh
+	rm test.sh
 	rm -f /root/IP
 	exit
 fi
